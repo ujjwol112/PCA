@@ -11,7 +11,6 @@ This repository contains Python code for authenticating banknotes using Principa
 - [Dependencies](#dependencies)
 - [Usage](#usage)
 - [Results](#results)
-- [License](#license)
 
 ## Introduction
 
